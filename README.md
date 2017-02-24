@@ -1,16 +1,12 @@
 # seke2015-panel-presentation
 
-This repository contains the HTML source code and additional resources for a presentation that I, [Gregory M.
-Kapfhammer](http://www.cs.allegheny.edu/sites/gkapfham), gave during a panel at the 27th International Conference on
-Software Engineering and Knowledge Engineering (SEKE 2015). The presentation's source code uses the
-[reveal.js](https://github.com/hakimel/reveal.js/) framework to control the display of each slide.  I have developed a
-custom theme for the slides that manages the formatting, color scheme, and the use of full-screen photographs on the
+This repository contains the HTML source code and additional resources for a presentation that I, [Brian Compton](http://comptonb37.github.io), created for a freshman seminar presentation project. The presentation's source code uses the
+[reveal.js](https://github.com/hakimel/reveal.js/) framework to control the display of each slide.  I have used a
+custom theme for the slides developed by my professor [Gregory M. Kapfhammer](http://www.cs.allegheny.edu/sites/gkapfham/) that manages the formatting, color scheme, and the use of full-screen photographs on the
 backgrounds.
 
 You are welcome to use these slides as inspiration for your own presentation. If you find this example useful, could I
-trouble you to star this repository and then acknowledge it in your own presentation slides? If you would like to learn
-more about my research publications, then you can check out my GitHub repository called
-[gkapfham/research-bibliography](https://github.com/gkapfham/research-bibliography).
+trouble you to star this repository and then acknowledge it in your own presentation slides?
 
 Are you interested in previewing the presentation without having to download the code and resources from the GitHub
 site? Well, you can! Please view [Why do I play video games? For the Community!](https://cdn.rawgit.com/comptonb37/fs102Spring2017-presentation1-comptonb37/bc54dc21/seke2015_panel.html).

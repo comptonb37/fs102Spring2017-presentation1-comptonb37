@@ -13,7 +13,7 @@ more about my research publications, then you can check out my GitHub repository
 [gkapfham/research-bibliography](https://github.com/gkapfham/research-bibliography).
 
 Are you interested in previewing the presentation without having to download the code and resources from the GitHub
-site? Well, you can! Please view [Why do I play video games? For the Community!](http://cdn.rawgit.com/gkapfham/seke2015-panel-presentation/master/seke2015_panel.html).
+site? Well, you can! Please view [Why do I play video games? For the Community!](http://cdn.rawgit.com/comptonb37/fs102Spring2014-presentation1-comptonb37/master/seke2015_panel.html).
 
 ## Installation Instructions
 

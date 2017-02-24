@@ -9,7 +9,7 @@ You are welcome to use these slides as inspiration for your own presentation. If
 trouble you to star this repository and then acknowledge it in your own presentation slides?
 
 Are you interested in previewing the presentation without having to download the code and resources from the GitHub
-site? Well, you can! Please view [Why do I play video games? For the Community!](https://cdn.rawgit.com/comptonb37/fs102Spring2017-presentation1-comptonb37/bc54dc21/seke2015_panel.html).
+site? Well, you can! Please view [Why do I play video games? For the Community!](https://cdn.rawgit.com/comptonb37/fs102Spring2017-presentation1-comptonb37/bc54dc21/SMPres.html).
 
 ## Installation Instructions
 

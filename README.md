@@ -1,4 +1,4 @@
-# seke2015-panel-presentation
+# Presentation 1 Blueprints
 
 This repository contains the HTML source code and additional resources for a presentation that I, [Brian Compton](http://comptonb37.github.io), created for a freshman seminar presentation project. The presentation's source code uses the
 [reveal.js](https://github.com/hakimel/reveal.js/) framework to control the display of each slide.  I have used a
